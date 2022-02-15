@@ -1,13 +1,13 @@
 .speech {
     font-size: 13px;
-    //font-style: italic;
+    font-style: italic;
     color: blue;
     font-family: "Times New Roman";
 }
 
 .direction {
     font-size: 15px;
-    //font-style: italic;
+    font-style: italic;
     color: black;
     background-color: lavender;
     font-family: "Times New Roman";
@@ -15,7 +15,7 @@
 
 .name {
     font-size: 15px;
-    //font-style: italic;
+    font-style: italics;
     color: black;
     font-family: "Times New Roman";
 }
@@ -62,4 +62,24 @@ h6.MUSICMASTER:hover {
 h6.PUPIL:hover {
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
+}
+
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: tomato;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding: 10px;
+    color: black;
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color: rgb(187, 11, 55);
 }
