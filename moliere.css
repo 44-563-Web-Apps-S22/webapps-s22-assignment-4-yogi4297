@@ -48,3 +48,18 @@ th, td {
 tr:nth-child(even) {
     background-color: #7f6faa;
 }
+
+h6.DANCINGMASTER:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.MUSICMASTER:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.PUPIL:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
