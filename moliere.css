@@ -1,0 +1,31 @@
+.speech {
+    font-size: 13px;
+    //font-style: italic;
+    color: blue;
+    font-family: "Times New Roman";
+}
+
+.direction {
+    font-size: 15px;
+    //font-style: italic;
+    color: black;
+    background-color: lavender;
+    font-family: "Times New Roman";
+}
+
+.name {
+    font-size: 15px;
+    //font-style: italic;
+    color: black;
+    font-family: "Times New Roman";
+}
+h6.name {
+    margin-block: auto;
+}
+
+.DANCINGMASTER {
+    color:maroon;
+}
+.PUPIL {
+    color:teal
+}
