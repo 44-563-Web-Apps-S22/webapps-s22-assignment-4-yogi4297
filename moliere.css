@@ -50,16 +50,27 @@ tr:nth-child(even) {
 }
 
 h6.DANCINGMASTER:hover {
+    border: solid 2.5px rgb(189, 25, 25);  
+    text-shadow:2px 3px 5px rgb(39, 26, 221);
+    color: transparent;
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
 }
 
 h6.MUSICMASTER:hover {
+
+    border: solid 2.5px rgb(189, 25, 25);  
+    text-shadow:2px 3px 5px rgb(39, 26, 221);
+    color: transparent;
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
 }
 
 h6.PUPIL:hover {
+    border: solid 2.5px rgb(189, 25, 25);
+  
+    text-shadow:2px 3px 5px rgb(39, 26, 221);
+    color: transparent;
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
 }
